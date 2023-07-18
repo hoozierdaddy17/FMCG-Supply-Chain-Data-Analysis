@@ -54,16 +54,17 @@ So now I am excited to take on this challenge and build this dashboard and perfo
 
 Overview Analysis -
 
-![Slide3](https://user-images.githubusercontent.com/58877807/199787804-0ccfe041-6ac6-46a9-834c-d6c8c6f8e651.JPG)
+![Slide1](https://github.com/hoozierdaddy17/FMCG-Supply-Chain-Data-Analysis/blob/main/overview.png)
 
 
-## Insights Pages
+Split By Customers -
 
-Insights 1 -
-
-![Slide7](https://user-images.githubusercontent.com/58877807/199788651-17569b76-2563-41e9-a8ca-504bd6a7d55f.JPG)
+![Slide2](https://github.com/hoozierdaddy17/FMCG-Supply-Chain-Data-Analysis/blob/main/split%20by%20customers.png)
 
 
+Performance Overtime -
+
+![Slide3](https://github.com/hoozierdaddy17/FMCG-Supply-Chain-Data-Analysis/blob/main/performance%20overtime.png)
 
 
 ## Final Insights
